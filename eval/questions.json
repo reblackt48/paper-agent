@@ -1,0 +1,5 @@
+[
+  {"question": "Wie viele Paper pro Jahr sind gespeichert?", "expected_keywords": ["202"]},
+  {"question": "Welche Paper erwähnen das Stichwort 'protein'?", "expected_keywords": ["protein"]},
+  {"question": "Gibt es Paper zu 'quantum teleportation' in den Daten?", "expected_keywords": ["keine"]}
+]

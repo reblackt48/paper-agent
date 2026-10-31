@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/paperagent/__init__.py
+src/paperagent/agent.py
+src/paperagent/pipeline.py
+src/paperagent.egg-info/PKG-INFO
+src/paperagent.egg-info/SOURCES.txt
+src/paperagent.egg-info/dependency_links.txt
+src/paperagent.egg-info/top_level.txt
+tests/test_pipeline.py
